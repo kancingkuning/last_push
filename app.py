@@ -52,6 +52,8 @@ def main():
     application_mode = application_mapping[st.selectbox('Application Mode', list(application_mapping.keys()))]
     prev_qualification_grade = st.number_input('Previous Qualification Grade', 0, 200)
     admission_grade = st.number_input('Admission Grade', 0, 200)
+
+    st.write('tick box that applies')
     scholarship_holder = 1 if st.checkbox('Scholarship') else 0
     tuition_fees = 1 if st.checkbox('Tuition up to date') else 0
     displaced = 1 if st.checkbox('Displaced') else 0
