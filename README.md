@@ -24,8 +24,7 @@ This will make the institute quality questioned if this issue still persist. Due
 Data source: [Jaya Jaya Institute Student Data] (https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
 
 
-# Accessing notebook.ipynb
----
+### Accessing notebook.ipynb
 ```
 open terminal
 python3 -m env env
@@ -38,8 +37,7 @@ pip install -r requirements.txt
 jupyther notebook or code .. #forVSCode
 ```
 
-# Accessing Monitoring Dashboard
----
+### Accessing Monitoring Dashboard
 Tools used in this project is metabase with docker as container. 
 
 ```
@@ -58,8 +56,7 @@ password: root123
 This dashboard contains dropout rate, total students and breakdown types that potray students demography. Comparison also done based on the demography, possible factors affecting dropout and situation of active students. Through this initiatives, Lecturers would be able to gather insights as this could also be used for report that flexibly seen by higher level management or requested by parents if incase needed. 
 
 
-# Accessing Machine Learning System
----
+### Accessing Machine Learning System
 ```
 open terminal
 python3 -m env env
@@ -78,7 +75,7 @@ to try with link, access [this] (https://jayastudentpredict.streamlit.app/)
 ---
 
 
-### Action Recommendations
+## Action Recommendations
 ---
 -
 -
