@@ -72,9 +72,14 @@ to try with link, access [this](https://jayastudentpredict.streamlit.app/)
 
 ## Conclusion
 ---
-
+1. Demographies: Marital status seems to not affecting study quality as most of dropout students are single. Majority of the students are women and they also have more significant dropout rates compare to men. Graduates typically enrolled at an earlier age than dropouts.
+2. Grade: Admission grades and curricular unit grades for both semesters shows that graduates generally have higher grades for all than dropouts.
+3. Financial: Most of dropouts are debtor (61.99%). Students who received scholarships are more likely to graduate compared to those who did not.
+4. Course/Major: The Nursing program has the highest number of graduates, whereas Biofuel Technology and Informatics Engineering show significantly lower graduation rates.
 
 ## Action Recommendations
 ---
--
--
+- A standardize psychological support for students in older age may be necessary to build motivation and strengh in finishing study.
+- Create more opportunities for unfortunates students such as financial aid and increase scholarship quotas instead of providing student loan.
+- Reward or award may be taken into account to enhance students grade indirectly. 
+- Comprehensive approach on courses with lower graduation rates need to be done, may be for teaching quality and/or curriculum development.
