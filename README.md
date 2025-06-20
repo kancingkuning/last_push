@@ -65,12 +65,11 @@ source bin env/bin/activate
 ```
 streamlit run app.py
 ```
-```
+
 then fill the columns based on options given, and then click predict. 
-```
-```
+
 to try with link, access [this](https://jayastudentpredict.streamlit.app/)
-```
+
 ## Conclusion
 ---
 
