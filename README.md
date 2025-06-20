@@ -21,7 +21,7 @@ This will make the institute quality questioned if this issue still persist. Due
 
 ## Preparation
 ---
-Data source: [Jaya Jaya Institute Student Data] (https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
+Data source: [Jaya Jaya Institute Student Data](https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
 
 
 ### Accessing notebook.ipynb
@@ -69,7 +69,7 @@ streamlit run app.py
 then fill the columns based on options given, and then click predict. 
 ```
 ```
-to try with link, access [this] (https://jayastudentpredict.streamlit.app/)
+to try with link, access [this](https://jayastudentpredict.streamlit.app/)
 ```
 ## Conclusion
 ---
